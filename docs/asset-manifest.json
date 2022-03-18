@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pure-react-children-exercises/static/css/main.19cc1010.css",
+    "main.js": "/pure-react-children-exercises/static/js/main.d419930d.js",
+    "index.html": "/pure-react-children-exercises/index.html",
+    "main.19cc1010.css.map": "/pure-react-children-exercises/static/css/main.19cc1010.css.map",
+    "main.d419930d.js.map": "/pure-react-children-exercises/static/js/main.d419930d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19cc1010.css",
+    "static/js/main.d419930d.js"
+  ]
+}

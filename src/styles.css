@@ -1,0 +1,74 @@
+/* styles.css */
+
+body {
+	--margin-sep: 1.5em;
+
+	margin: 0;
+	padding: 0;
+	border: solid 2em transparent;
+	min-height: 100vh;
+	box-sizing: border-box;
+	font-family: Helvetica, sans-serif;
+}
+
+/* Error Box */
+
+.error-box {
+	background: #F3DEDE;
+	border: solid 1px #ECCCD1;
+	margin: var(--margin-sep) 0;
+	border-radius: 0.5em;
+	font-size: 1.3em;
+	padding: 1.8em;
+	color: #AB433F;
+}
+
+.error-box .fa {
+	margin-right: 1.5em;
+	vertical-align: middle;
+	transform: scale(2);
+	color: #AB433F;
+}
+
+small.title {
+	color: gray;
+}
+
+/* Dialog Box */
+
+.dialog-box {
+	--border-color: #ccc;
+	--h-padding: 1.35rem;
+
+	border: solid 1px var(--border-color);
+	margin: var(--margin-sep) 0;
+}
+
+.dialog-box h2 {
+	padding: 0 var(--h-padding);
+	font-weight: 400;
+	font-size:
+}
+
+.dialog-box .content-inner {
+	border: solid var(--border-color);
+	border-width: 1px 0;
+	padding: 2em var(--h-padding);
+}
+
+.dialog-box .buttons-wrapper {
+	padding: 1em var(--h-padding);
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.dialog-box .buttons-wrapper button {
+	border: solid 1px var(--border-color);
+	background: white;
+	border-radius: 0.4rem;
+	padding: 0.5em 1em;
+}
+
+.dialog-box .buttons-wrapper button:hover {
+	cursor: pointer;
+}
