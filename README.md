@@ -1,3 +1,11 @@
+# Children Exercises
+
+Children exercises from the Pure React book.
+
+![](https://user-images.githubusercontent.com/5881557/159019307-dc053241-8b1c-4a5d-96eb-6f7dbe3dc764.png)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
